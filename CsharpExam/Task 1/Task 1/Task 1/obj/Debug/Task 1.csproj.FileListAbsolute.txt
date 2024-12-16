@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\CsharpExam\Task 1\Task 1\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\admin\Documents\CsharpExam\Task 1\Task 1\Task 1\bin\Debug\Task 1.exe
+C:\Users\admin\Documents\CsharpExam\Task 1\Task 1\Task 1\bin\Debug\Task 1.pdb
+C:\Users\admin\Documents\CsharpExam\Task 1\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\CsharpExam\Task 1\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\CsharpExam\Task 1\Task 1\Task 1\obj\Debug\Task 1.exe
+C:\Users\admin\Documents\CsharpExam\Task 1\Task 1\Task 1\obj\Debug\Task 1.pdb
